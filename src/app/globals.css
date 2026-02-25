@@ -1,0 +1,32 @@
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #1e293b;
+  color: white;
+  padding: 20px;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  background-color: #f1f5f9;
+}
+ .modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  min-width: 320px;
+}
