@@ -138,7 +138,7 @@ INSTALACIÓN
 
 1)  Clonar repositorio:
 
-git clone https://github.com/TU_USUARIO/agenda-medica-frontend.git cd
+git clone https://github.com/jmario91/agenda-medica-frontend.git cd
 agenda-medica-frontend
 
 2)  Instalar dependencias:
