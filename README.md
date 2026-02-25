@@ -29,7 +29,7 @@ El proyecto sigue una arquitectura modular basada en features, separando
 claramente UI, lógica de negocio, estado global y configuración.
 
 Estructura principal:
-
+```bash
 \AGENDA-MEDICA-FRONTEND\SRC
 │   .env.local
 │   
@@ -94,7 +94,7 @@ Estructura principal:
 └───types
         auth.types.ts
         global.types.ts
-
+```
 ------------------------------------------------------------------------
 
 ## SISTEMA DE ROLES
